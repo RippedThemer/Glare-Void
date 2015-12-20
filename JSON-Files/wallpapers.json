@@ -1,84 +1,89 @@
 {
     "wallpapers": [
                     {
-                        "author": "Travis Hall",
+                        "author": "Alex Cruz",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/flowers.png",
-                        "name": "Flowers"
+                        "name": "AC"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Alex Cruz",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/flowers2.png",
-                        "name": "Flowers2"
+                        "name": "AC2"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Sasi Kanth",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/flowers3.png",
-                        "name": "Flowers3"
+                        "name": "SK"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Sasi Kanth",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/flowers4.png",
-                        "name": "Flowers4"
+                        "name": "SK2"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Sasi Kanth",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/flowers5.png",
-                        "name": "Flowers5"
+                        "name": "SK3"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/moments.png",
-                        "name": "Moments"
+                        "name": "TE"
                      },
                      {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/moments2.png",
-                        "name": "Moments2"
+                        "name": "TE2"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/moments3.png",
-                        "name": "Moments3"
+                        "name": "TE3"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/moments4.png",
-                        "name": "Moments4"
+                        "name": "TE4"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/moments5.png",
-                        "name": "Moments5"
+                        "name": "TE5"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper.png",
-                        "name": "Paper"
+                        "name": "TE6"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper2.png",
-                        "name": "Paper2"
+                        "name": "TE7"
                    },
                    {            
-                       "author": "Travis Hall",
+                       "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper3.png",
-                        "name": "Paper3"
+                        "name": "TE8"
                     },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper4.png",
-                        "name": "Paper4"
+                        "name": "TE9"
                     },
                     {
-			            "author": "Travis Hall",
+			            "author": "Tina Ellis",
 			            "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper5.png",
-			            "name": "Paper5"
+			            "name": "TE10"
 		            },
                     {
-                        "author": "Travis Hall",
+                        "author": "Tina Ellis",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper6.png",
-                        "name": "Paper6"
+                        "name": "TE11"
+                    },
+                    {
+                    	"author": "Tina Ellis",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/paper6.png",
+                        "name": "TE12"
                     }
           ]
 }
