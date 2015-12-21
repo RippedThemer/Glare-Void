@@ -81,9 +81,17 @@
                         "name": "TE11"
                     },
                     {
-                    	"author": "Tina Ellis",
+                    	"author": "Tom Wellington",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/TE12.jpg",
                         "name": "TE12"
-                    }
+                    },
+                         "author": "Tom Wellington",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/TW.png",
+                        "name": "TE"
+                    },
+                    {
+                        "author": "Tom Wellington",
+                        "url": "https://github.com/RippedThemer/Glare-Void/blob/master/Wallpapers/TW2.png",
+                        "name": "TW2"
           ]
 }
